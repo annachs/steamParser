@@ -1,0 +1,2 @@
+-U steam[client]
+beautifulsoup4
